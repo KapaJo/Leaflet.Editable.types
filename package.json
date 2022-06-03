@@ -1,5 +1,5 @@
 {
-  "name": "@leaflet.editable.importable",
+  "name": "@types/leaflet.editable.importable",
   "version": "1.0.0",
   "description": "types for Leaflet.Editable.Importable",
   "main": "index.js",
