@@ -15,8 +15,6 @@
     "url": "https://github.com/KapaJo/Leaflet.Editable.types/issues"
   },
   "homepage": "https://github.com/KapaJo/Leaflet.Editable.types#readme",
-  "dependencies": {
-    "geojson": "^0.5.0"
-  },
+  "dependencies": {},
   "typeScriptVersion": "3.9"
 }
