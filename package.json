@@ -7,7 +7,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KapaJo/Leaflet.Editable.types.git"
+    "url": "https://github.com/KapaJo/Leaflet.Editable.types.git"
   },
   "author": "Alex Borzilov",
   "license": "MIT",
@@ -16,5 +16,6 @@
   },
   "homepage": "https://github.com/KapaJo/Leaflet.Editable.types#readme",
   "dependencies": {},
+  "typesPublisherContentHash": "",
   "typeScriptVersion": "3.9"
 }
