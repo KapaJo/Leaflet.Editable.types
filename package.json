@@ -10,7 +10,7 @@
     "url": "git+https://github.com/KapaJo/Leaflet.Editable.types.git"
   },
   "author": "Alex Borzilov",
-  "license": "WTFPL",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KapaJo/Leaflet.Editable.types/issues"
   },
